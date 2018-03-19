@@ -1,0 +1,3 @@
+server:
+  contextPath: /oauth-server
+  port: 8081
